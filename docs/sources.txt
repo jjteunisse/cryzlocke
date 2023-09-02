@@ -1,0 +1,14 @@
+Data structures
+    https://bulbapedia.bulbagarden.net/wiki/Save_data_structure_(Generation_II)
+    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_species_data_structure_(Generation_II)
+    https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_data_structure_(Generation_II)
+    https://bulbapedia.bulbagarden.net/wiki/Trainer_data_structure_(Generation_II)
+
+Disassembly project
+    https://github.com/pret/pokecrystal
+
+Lua documentation
+    https://www.lua.org/manual/5.1/
+
+VBA-RR documentation
+    https://tasvideos.org/EmulatorResources/VBA/LuaScriptingFunctions
